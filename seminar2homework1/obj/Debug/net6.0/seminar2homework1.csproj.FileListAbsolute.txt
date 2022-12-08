@@ -1,0 +1,15 @@
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\bin\Debug\net6.0\seminar2homework1.exe
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\bin\Debug\net6.0\seminar2homework1.deps.json
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\bin\Debug\net6.0\seminar2homework1.runtimeconfig.json
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\bin\Debug\net6.0\seminar2homework1.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\bin\Debug\net6.0\seminar2homework1.pdb
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.csproj.AssemblyReference.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.AssemblyInfoInputs.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.AssemblyInfo.cs
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.csproj.CoreCompileInputs.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\refint\seminar2homework1.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.pdb
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\seminar2homework1.genruntimeconfig.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\seminar2homework1\obj\Debug\net6.0\ref\seminar2homework1.dll

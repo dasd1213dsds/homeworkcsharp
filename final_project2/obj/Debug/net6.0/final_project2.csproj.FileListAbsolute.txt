@@ -1,0 +1,15 @@
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\bin\Debug\net6.0\final_project2.exe
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\bin\Debug\net6.0\final_project2.deps.json
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\bin\Debug\net6.0\final_project2.runtimeconfig.json
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\bin\Debug\net6.0\final_project2.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\bin\Debug\net6.0\final_project2.pdb
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.csproj.AssemblyReference.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.AssemblyInfoInputs.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.AssemblyInfo.cs
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.csproj.CoreCompileInputs.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\refint\final_project2.dll
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.pdb
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\final_project2.genruntimeconfig.cache
+C:\Users\omaew\OneDrive\Рабочий стол\c#\final_project2\obj\Debug\net6.0\ref\final_project2.dll
